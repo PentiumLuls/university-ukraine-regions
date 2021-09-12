@@ -7,8 +7,8 @@ git clone git@github.com:PentiumLuls/university-ukraine-regions.git
 cd university-ukraine-regions
 ```
 ### Run
-For now, just open `index.html` file in your browser.
-Docker will be added later
+Start app by running script: `bash run.sh`
+and open in browser: `localhost:8080`
 
 ### Add new region
 1. in `index.html` add new `switch-case` that runs function `showRegionInfo` in `<script>` tag
